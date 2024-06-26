@@ -1,0 +1,26 @@
+Criei duas funções em phyton onde a primeira função convert_to_grayscale converte a imagem para tons de cinza
+e a segunda função, convert_to_black_and_white utiliza a imagem em tom de cinza para transformar em preto e
+branco.
+
+Utilizei a biblioteca OpenCV para manipulação de imagens.
+
+# Como rodar o projeto
+
+```bash
+# Clone este repositório
+
+$ git clone
+
+# Acesse a pasta do projeto no terminal/cmd
+
+$ cd binarizacao
+
+# Instale as dependências
+
+$ pip install opencv-python
+
+# Execute a aplicação
+
+$ python binarizacao.py
+
+```
